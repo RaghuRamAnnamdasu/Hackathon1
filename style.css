@@ -1,0 +1,99 @@
+#containerMain{
+    padding:15px 40px;
+}
+.channelInfoBox,
+.uploadedVideosBox,
+.subscriptionsBox,
+.userActivityBox {
+    border:1px solid black;
+    padding:5px;
+    margin-bottom:15px;
+    background: mintcream;
+}
+.channelInfoContent img,
+.searchInfoWrapper {
+    padding-right: 12px;
+}
+#channelId1{
+    margin-left:50px !important;
+    width:500px;
+    height:50px;
+}
+.button{
+    background-color:aliceblue !important;
+    margin-left: 20px;
+    border: 1px solid black !important;
+}
+.para{
+    font-weight:bold;
+}
+
+#channelId2{
+    margin-left:50px !important;
+    width:500px;
+    height:50px;
+}
+
+.uploadedVideosContent{
+    overflow:auto;
+}
+.contentWrapper2{
+    padding:5px;
+}
+
+#channelId3{
+    margin-left:50px !important;
+    width:500px;
+    height:50px;
+}
+
+.subscriptionsContent{
+    overflow:auto;
+}
+.contentWrapper {
+    padding-right: 8px;
+}
+.contentWrapper3{
+    padding:5px;
+}
+#channelId4{
+    margin-left:50px !important;
+    width:500px;
+    height:50px;
+}
+.row{
+    margin:0 !important;
+    text-align: center;
+}
+.tableContents{
+    height:300px;
+    overflow:auto;
+}
+.seachResultsHeader {
+    color:darkcyan;
+    border-bottom: 1px dashed black;
+    padding: 8px 0;
+    margin-bottom: 8px;
+}
+.seachHeader,
+.createPlayListHeader {
+    color:darkcyan;
+    margin-bottom: 12px;
+}
+.playlistSearchInput,
+.channelSearchInput {
+    margin-right: 12px;
+}
+.searchInput,
+.descriptionInput {
+    margin: 0 12px;
+}
+.searchContentWrapper{
+    display:flex;
+    overflow:auto;
+}
+
+.noData {
+    text-align: center;
+    font-size: 20px;
+}
